@@ -23,11 +23,11 @@
 
 ### 3. 바카라 게임 (Royal Baccarat)
 HTML·CSS·JavaScript로 만든 카드 게임입니다. 베팅과 카드 분배, 승패 판정 로직을 구현했습니다.
-- 폴더: `baccarat/`
+- 게임 링크: https://glowing-rolypoly-ff73ea.netlify.app
 
 ### 4. 하이로우 게임 (Casino High-Low Gold)
 다음에 나올 카드가 높을지 낮을지 맞히는 카드 게임입니다. 베팅과 연속 정답 보너스 등을 구현했습니다.
-- 폴더: `high-low/`
+- 게임 링크: https://dapper-cupcake-c7b18d.netlify.app
 
 ## 👥 팀원
 | 이름 | 학과와 학번 |
